@@ -4,8 +4,8 @@ import dollarCoin from "./dollar-coin.png";
 import dailyReward from "./daily-reward.png";
 import dailyCipher from "./daily-cipher.png";
 import dailyCombo from "./daily-combo.png";
-import mainCharacter from "./main-character.png";
-import hamsterCoin from "./hamster-coin.png";
+import mainCharacter from "./anime.png";
+import hamsterCoin from "./logo1.png";
 
 export {
     hamsterExchange,
