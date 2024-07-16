@@ -1,9 +1,7 @@
 import { IconProps } from "../utils/types";
 import hamsterImage from "./../images/anime-logo.png"; // Adjust the path accordingly
 
-const Hamster: React.FC<IconProps> = ({ size = 24, className = "" }) => {
-  const svgSize = `${size}px`;
-
+const Hamster: React.FC<IconProps> = () => {
   return (
     <img
       src={hamsterImage}
